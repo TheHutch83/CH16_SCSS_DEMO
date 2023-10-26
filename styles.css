@@ -1,0 +1,15 @@
+:root {
+  --special-color-1: red;
+}
+
+div {
+  background-color: var(--special-color-1);
+}
+
+p {
+  color: var(--special-color-1);
+}
+
+button {
+  border: var(--special-color-1);
+}
